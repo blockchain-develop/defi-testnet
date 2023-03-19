@@ -1,0 +1,14 @@
+# liquidswap
+
+## source code
+
+[liquidswap](https://github.com/pontem-network/liquidswap.git)
+
+## onchain
+
+liquidswap: 0x190d44266241744264b964a37b8f09863167a12d3e70cda39376cfb4e3561e12
+pool account: 0x05a97986a9d031c4567e15b797be516910cfcb4156312482efc6a19c0a30c948
+
+pair: 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::USDC & 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::WETH
+pair: 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::USDT & 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::WETH
+pair: 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::USDC & 0x2f88a12a17f01228f4ba72ec6214127abb930512dcb3d6205909ca510aca7b29::asset::USDT

@@ -1,0 +1,6 @@
+# bep20 tokens on bsc
+
+0xe7d6d554d46a373edfcab32db13dc6513db5cf16 wbnb
+0xd5ac5bda0d4e924bb6bbd1b5d01f7a580f2321da weth
+0x048c8c8e5638e1e483244d5723f50c96678530e7 wusdt
+0x3d20ede7a0c99b7a0e4e28411cf717adc24b83a4 busd
